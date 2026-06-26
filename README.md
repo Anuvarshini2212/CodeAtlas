@@ -20,19 +20,6 @@ CodeAtlas is a full-stack AI-powered platform that helps developers understand s
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots of:
-
-* Login Page
-* Dashboard
-* Upload Repository
-* Repository Details
-* AI Chat
-* File Explorer
-
----
-
 ## 🛠 Tech Stack
 
 ### Frontend
@@ -136,9 +123,9 @@ GROQ_API_KEY=your_api_key
 
 ## 👩‍💻 Author
 
-**Varshh**
+**Anuvarshini V**
 
-LinkedIn: *(Add your LinkedIn URL)*
+LinkedIn: https://www.linkedin.com/in/anuvarshini-v-73a37b3a2/
 
 GitHub: https://github.com/Anuvarshini2212
 
